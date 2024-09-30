@@ -1,12 +1,12 @@
 :root{
---fundo: #135669;
---cartao-frente: #87bdcc;
---cartao-verso:#5c9cad;
+--fundo: #8fddff;
+--cartao-frente: #307dc9;
+--cartao-verso:#1f62a3;
 --destaque: #d1802e;
 }
 
 body{
-    background-color: #135669;
+    background-color: #8fddff;
 }
 footer{
     position: fixed;
