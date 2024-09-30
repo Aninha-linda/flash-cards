@@ -34,6 +34,7 @@ body{
 
 .conteudo-cartao h3{
     color: var(--fundo);
+    background-color: var(--cartao-verso);
     border: 4px solid var(--cartao-verso);
     text-align: left;
     position: absolute;
