@@ -77,7 +77,7 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--cartao-verso);
+    background-color: var(--preto);
     color: var(--branco);
     width: 100%;
     text-align: center;
