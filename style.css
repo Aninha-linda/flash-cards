@@ -80,8 +80,8 @@ body{
 footer{
     position: fixed;
     bottom: 0;
-    background-color: var(--preto);
-    color: var(--branco);
+    background-color: var(--fundo);
+    color: var(--cartao-verso);
     width: 100%;
     text-align: center;
     
