@@ -33,7 +33,8 @@ body{
 }
 
 .conteudo-cartao h3{
-    border: 1px solid var(--destaque);
+    color: var(--fundo);
+    border: 4px solid var(--destaque);
     text-align: left;
     position: absolute;
     padding: 0.5rem;
