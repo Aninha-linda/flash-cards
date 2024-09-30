@@ -49,6 +49,11 @@ body{
     font-size: 1.4vw;
 }
 
+.respota-cartao p{
+    color: var(--cartao-verso);
+    font-weight: 700;
+}
+
 .cartao.active .conteudo-cartao{
     transform: rotateY('180deg');
 }
