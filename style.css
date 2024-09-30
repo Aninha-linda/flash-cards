@@ -43,6 +43,7 @@ body{
 }
 
 .conteudo-cartao p{
+    color: white;
     margin-top: 1rem;
     padding: 2rem;
     margin-top: 4rem;
@@ -50,7 +51,7 @@ body{
 }
 
 .resposta-cartao p{
-    color: var(--destaque);
+    color: white;
     font-weight: 700;
 }
 
