@@ -81,7 +81,7 @@ CriaCartao(
 CriaCartao(
 ' Química ',
 ' Qual o ph básico? ',
-' ph 10 ')
+' ph >7 ')
 
 CriaCartao(
 ' Matemática ',
